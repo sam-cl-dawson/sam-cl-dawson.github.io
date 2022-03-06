@@ -1,0 +1,3 @@
+I've had multiple research positions. In one I researched the community composition of Methanogens from the Copper River Delta area of Alaska. In another position I created R packages to get raw sequence reads to ASV matricies for the rps10 barcode. 
+
+I held a job for the IB department at OSU for 3 years. I was team lead for the prep team. Sometimes it was kind of insane and other times it was full of fun. 

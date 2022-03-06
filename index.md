@@ -26,7 +26,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Milk in tea
 
 
-[Link](url) and ![Image](src)
+Want to hear about some of my professional experience? Click [here](sam-cl-dawson.github.io/experience)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

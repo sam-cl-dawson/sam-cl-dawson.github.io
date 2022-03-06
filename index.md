@@ -15,11 +15,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Gaming
 - Coffeeeee
 
+## Things I Don't Enjoy
 
-1. Numbered
-2. List
+- Hot weather 
+- Spiders 
+- Sunburns
+- Allergies 
+- Mean people 
+- Lack of sleep
+- Milk in tea
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
